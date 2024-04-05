@@ -5,13 +5,9 @@
 - ⚡ Curiosidade: Amo vinho e gatos 🍷 🐈
 - 🌱 Não como carne animal desde os 17 anos
 - 📚 Estudante do Curso Técnico em Informática para Internet
-- 📍 04 de Março de 2002
+- 📍 04 de Março de 2002 
 #
- <div>
-    <img align="right" alt="meu-gif" src="https://i.picasion.com/pic92/b772bbd0219fa81e963e8a179be977e8.gif">
-  </div>
-#
-<div>
+<div style="display: flex; justify-content: space-between;>
   <a href="https://www.instagram.com/karolaineign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="krlaineignacio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/karolaine-ignacio-5a93a3214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,8 +16,9 @@
 </div>
 
 <h3>Github Stats</h3>
-<div>
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/KrlIgnacio">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=KrlIgnacio&theme=midnight-purple&show_icons=true&hide=stars" />
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=KrlIgnacio&theme=midnight-purple&show_icons=true&hide=stars" />
+   <a href="https://github.com/KrlIgnacio">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrlIgnacio&hide_progress=true&theme=midnight-purple" />
 </div>

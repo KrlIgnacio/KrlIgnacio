@@ -7,6 +7,10 @@
 - 📚 Estudante do Curso Técnico em Informática para Internet
 - 📍 04 de Março de 2002
 #
+ <div>
+    <img align="right" alt="meu-gif" src="https://i.picasion.com/pic92/b772bbd0219fa81e963e8a179be977e8.gif">
+  </div>
+#
 <div>
   <a href="https://www.instagram.com/karolaineign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="krlaineignacio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

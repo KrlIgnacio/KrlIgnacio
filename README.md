@@ -18,6 +18,6 @@
 <h3>Github Stats</h3>
 <div>
   <a href="https://github.com/KrlIgnacio">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KrlIgnacio&theme=midnight-purple&show_icons=true&hide=stars" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrlIgnacio&hide_progress=true&theme=midnight-purple" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=KrlIgnacio&theme=midnight-purple&show_icons=true&hide=stars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrlIgnacio&hide_progress=true&theme=midnight-purple" />
 </div>

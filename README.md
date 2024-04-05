@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://i.picasion.com/pic92/b772bbd0219fa81e963e8a179be977e8.gif" alt="meu-gif" style="width: 250px; height: 250px; margin-left: 30px;">
+      <img src="https://i.picasion.com/pic92/b772bbd0219fa81e963e8a179be977e8.gif" alt="meu-gif" style="width: 150px; height: 150px; margin-left: 30px;">
     </td>
   </tr>
 </table>

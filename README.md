@@ -8,7 +8,8 @@
         <li>😄 Pronomes: ela/dela</li>
         <li>⚡ Curiosidade: Amo vinho e animais 🍷 🐈 🐕</li>
         <li>🌱 Não como carne animal desde os 17 anos</li>
-        <li>📚 Estudante do Curso Técnico em Informática para Internet</li>
+        <li>📚 Cursando Bacharel em Sistemas de Informação</li>
+        <li>📚 Curso Técnico Completo em Informática para Internet</li>
         <li>📍 04 de Março de 2002</li>
       </ul>
     </td>
